@@ -15,7 +15,7 @@ app.use('/api/game', gameRoutes);
 app.use('/api', leaderboardRoutes); // Use the new leaderboard routes
 
 app.get('/', (req, res) => {
-  res.send('Saudi Deal Backend');
+  res.send('Game Backend');
 });
 
 app.listen(PORT, () => {
