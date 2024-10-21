@@ -36,10 +36,7 @@ This is a Node.js backend for a game application. It provides endpoints for user
 ## Installation
 
 1. Clone the repository:
-   ```sh
-   git clone <repository_url>
-   cd <repository_folder>
-   ```
+
 
 2. Install dependencies:
    ```sh
@@ -544,4 +541,3 @@ By following the provided instructions, you should be able to set up the project
 All source code belongs to Mohammed Aleshawi. I am not responsible for any misuse of the code.
 
 © 2024 Mohammed Aleshawi. All rights reserved.
-"""
